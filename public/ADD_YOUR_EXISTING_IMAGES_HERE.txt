@@ -1,0 +1,3 @@
+Copy your existing files here:
+- satyam-hero.png
+- adrishya-prototype.png

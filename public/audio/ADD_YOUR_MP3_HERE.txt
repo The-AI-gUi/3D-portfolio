@@ -1,0 +1,2 @@
+Optional: place a soundtrack here as portfolio-ambient.mp3.
+The current UI also lets visitors select an audio file locally from their device.
